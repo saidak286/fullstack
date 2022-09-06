@@ -1,2 +1,2 @@
-# Studi Independen Fullstack Web Developer 
-repo ini berisi tugas atau materi Studi Independen Fullstack Web Developer
+# Praktek MSIB 3
+repo ini berisi tugas atau materi Praktek MSIB 3
